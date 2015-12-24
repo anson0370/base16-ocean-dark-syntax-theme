@@ -3,18 +3,18 @@
   "theme": "syntax",
   "version": "0.1.6",
   "description": "The base16 Ocean Dark Theme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/anson0370/base16-ocean-dark-syntax-theme"
-  },
+  "repository": "https://github.com/anson0370/base16-ocean-dark-syntax-theme",
+  "bugs": "https://github.com/anson0370/base16-ocean-dark-syntax-theme/issues",
+  "homepage": "https://github.com/anson0370/base16-ocean-dark-syntax-theme",
+  "keywords": [
+    "base16",
+    "ocean",
+    "dark",
+    "syntax",
+    "theme"
+  ],
   "license": "MIT",
   "engines": {
-    "atom": ">0.99.0"
-  },
-  "readme": "In the process",
-  "readmeFilename": "README.md",
-  "bugs": {
-    "url": "https://github.com/anson0370/base16-ocean-dark-syntax-theme/issues"
-  },
-  "homepage": "https://github.com/anson0370/base16-ocean-dark-syntax-theme"
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
