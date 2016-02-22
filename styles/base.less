@@ -23,10 +23,11 @@ atom-text-editor, :host {
 
     .line-number {
       &.cursor-line {
-        background: -webkit-linear-gradient(left, @syntax-gutter-line-number-no-selection, @syntax-gutter-background-color);
+        background-color: @syntax-gutter-line-number;
       }
 
       &.cursor-line-no-selection {
+        background-color: @syntax-gutter-line-number-no-selection;
         color: @syntax-gutter-text-color-selected;
       }
     }
